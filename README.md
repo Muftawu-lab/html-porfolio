@@ -1,2 +1,2 @@
 # html-porfolio
-this is website im creating for my apple business
+this is website i amcreating for my apple business
